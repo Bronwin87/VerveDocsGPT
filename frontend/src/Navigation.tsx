@@ -225,7 +225,7 @@ export default function Navigation({
           </NavLink>
 
           <a
-            href="https://discord.gg/WHJdfbQDR4"
+            href=""
             target="_blank"
             rel="noreferrer"
             className="my-auto mx-4 flex h-12 cursor-pointer gap-4 rounded-md hover:bg-gray-100"
@@ -235,7 +235,7 @@ export default function Navigation({
           </a>
 
           <a
-            href="https://github.com/arc53/DocsGPT"
+            href=""
             target="_blank"
             rel="noreferrer"
             className="my-auto mx-4 flex h-12 cursor-pointer gap-4 rounded-md hover:bg-gray-100"
