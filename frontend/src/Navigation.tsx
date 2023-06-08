@@ -224,7 +224,7 @@ export default function Navigation({
             <p className="my-auto text-eerie-black">About</p>
           </NavLink>
 
-          <a
+          {/* <a
             href=""
             target="_blank"
             rel="noreferrer"
@@ -242,7 +242,7 @@ export default function Navigation({
           >
             <img src={Link} alt="link" className="ml-2 w-5" />
             <p className="my-auto text-eerie-black">Github</p>
-          </a>
+          </a> */}
         </div>
       </div>
       <div className="fixed h-16 w-full border-b-2 bg-gray-50 md:hidden">
