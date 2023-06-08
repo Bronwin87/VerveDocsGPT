@@ -224,8 +224,8 @@ export default function Navigation({
             <p className="my-auto text-eerie-black">About</p>
           </NavLink>
 
-          <a
-            href="https://discord.gg/WHJdfbQDR4"
+          {/* <a
+            href=""
             target="_blank"
             rel="noreferrer"
             className="my-auto mx-4 flex h-12 cursor-pointer gap-4 rounded-md hover:bg-gray-100"
@@ -235,14 +235,14 @@ export default function Navigation({
           </a>
 
           <a
-            href="https://github.com/arc53/DocsGPT"
+            href=""
             target="_blank"
             rel="noreferrer"
             className="my-auto mx-4 flex h-12 cursor-pointer gap-4 rounded-md hover:bg-gray-100"
           >
             <img src={Link} alt="link" className="ml-2 w-5" />
             <p className="my-auto text-eerie-black">Github</p>
-          </a>
+          </a> */}
         </div>
       </div>
       <div className="fixed h-16 w-full border-b-2 bg-gray-50 md:hidden">
